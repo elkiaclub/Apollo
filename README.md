@@ -10,6 +10,8 @@ The Elkia resourcepack, featuring **custom models** and some random stuff we use
 **Most of them** however were **built in Minecraft, on a creative server by [@elkiaclub](https://github.com/elkiaclub) members** and painstakingly **converted into models by [@APerfectPenguin](https://github.com/APerfectPenguin).**
 
 [![v1.3](https://media.discordapp.net/attachments/451803777893269504/552091325483450368/unknown.png)](https://media.discordapp.net/attachments/451803777893269504/552091325483450368/unknown.png)
+[![meme](https://i.imgur.com/o9ssiV4.png)](https://i.imgur.com/o9ssiV4.png)
+
 
 ### First person:
 
