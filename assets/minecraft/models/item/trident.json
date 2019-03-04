@@ -5,8 +5,9 @@
 	},
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/trident"},
-		{ "predicate": {"damaged": 0, "damage": 0.004}, "model": "item/mjolnir"},
-		{ "predicate": {"damaged": 0, "damage": 0.008}, "model": "item/emojihammer"},
+		{ "predicate": {"damaged": 0, "damage": 0.004}, "model": "item/tridents/mjolnir"},
+		{ "predicate": {"damaged": 0, "damage": 0.008}, "model": "item/tridents/emojihammer"},
+		{ "predicate": {"damaged": 0, "damage": 0.012}, "model": "item/tridents/wand"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/trident"}
 	]
 }
