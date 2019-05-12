@@ -566,6 +566,6 @@
                 "up": { "texture": "#white_concrete", "uv": [ 0, 0, 0.7, 0.2 ] },
                 "down": { "texture": "#white_concrete", "uv": [ 0, 0, 0.7, 0.2 ] }
             }
-        },
+        }
     ]
 }

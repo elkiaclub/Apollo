@@ -1,7 +1,7 @@
 # Apollo
-The Elkia resourcepack, featuring **custom models** and some random stuff we used to tweak things around on [Elkia](https://elkia.club).
+The @elkiaclub resourcepack, featuring **custom models** and some random stuff we used to tweak things around on [Elkia](https://elkia.club).
 
-**We have in total 29 custom swords, 4 custom shields, and 3 custom tridents**
+**We have over 29 custom swords, more than 4 custom shields, and 3 custom tridents**
 
 ## Custom Models
 

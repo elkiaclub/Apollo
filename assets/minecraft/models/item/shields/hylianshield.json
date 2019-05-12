@@ -5234,7 +5234,7 @@
         },
         "fixed": {
             "rotation": [ 0, 90, 0 ],
-            "translation": [ 4, 3.5, -10 ],
+            "translation": [ 4, 3.5, -11 ],
             "scale": [ 1.5, 1.5, 1.5 ]
         },
         "head": {
