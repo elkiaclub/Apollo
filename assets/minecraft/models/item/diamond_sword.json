@@ -34,7 +34,9 @@
 		{"predicate": {"custom_model_data":10000027}, "model": "item/swords/mournblade"},
 		{"predicate": {"custom_model_data":10000028}, "model": "item/swords/lightsbane"},
 		{"predicate": {"custom_model_data":10000029}, "model": "item/swords/skullstaff"},
-		{"predicate": {"custom_model_data":10000030}, "model": "item/swords/cutlass"},
-		{"predicate": {"custom_model_data":10000031}, "model": "item/swords/skullsword"}
+		{"predicate": {"custom_model_data":10000030}, "model": "item/swords/destinysword"},
+		{"predicate": {"custom_model_data":10000031}, "model": "item/swords/warglaive"},
+		{"predicate": {"custom_model_data":10000032}, "model": "item/swords/oceancrest"},
+		{"predicate": {"custom_model_data":10000033}, "model": "item/swords/pokingstick"}
 	]
 }
