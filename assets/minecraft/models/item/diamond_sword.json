@@ -37,6 +37,8 @@
 		{"predicate": {"custom_model_data":10000030}, "model": "item/swords/destinysword"},
 		{"predicate": {"custom_model_data":10000031}, "model": "item/swords/warglaive"},
 		{"predicate": {"custom_model_data":10000032}, "model": "item/swords/oceancrest"},
-		{"predicate": {"custom_model_data":10000033}, "model": "item/swords/pokingstick"}
+		{"predicate": {"custom_model_data":10000033}, "model": "item/swords/pokingstick"},
+		{"predicate": {"custom_model_data":10000034}, "model": "item/swords/elemental_staff"}
+		
 	]
 }
