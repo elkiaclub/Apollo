@@ -42,7 +42,6 @@
 		{ "predicate": {"custom_model_data":10000001}, "model": "item/tridents/mjolnir"},
 		{ "predicate": {"custom_model_data":10000002}, "model": "item/tridents/emojihammer"},
 		{ "predicate": {"custom_model_data":10000003}, "model": "item/tridents/wand"},
-		{ "predicate": {"custom_model_data":10000003, "throwing": 1}, "model": "item/tridents/wand_throwing"},
-		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/trident_in_hand"}
+		{ "predicate": {"custom_model_data":10000003, "throwing": 1}, "model": "item/tridents/wand_throwing"}
     ]
 }
