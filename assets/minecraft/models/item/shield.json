@@ -35,13 +35,13 @@
 		}
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":10000001}, "model": "item/shields/roundshield"},
-		{"predicate": {"custom_model_data":10000001, "blocking":1}, "model": "item/shields/roundshield_blocking"},
-		{"predicate": {"custom_model_data":10000002}, "model": "item/shields/hylianshield"},
-		{"predicate": {"custom_model_data":10000002, "blocking":1}, "model": "item/shields/hylianshield_blocking"},
-		{"predicate": {"custom_model_data":10000003}, "model": "item/shields/roseshield"},
-		{"predicate": {"custom_model_data":10000003, "blocking":1}, "model": "item/shields/roseshield_blocking"},
-		{"predicate": {"custom_model_data":10000004}, "model": "item/shields/aegis"},
-		{"predicate": {"custom_model_data":10000004, "blocking":1}, "model": "item/shields/aegis_blocking"}
+		{"predicate": {"custom_model_data":10000001}, "model": "elkia:shields/roundshield"},
+		{"predicate": {"custom_model_data":10000001, "blocking":1}, "model": "elkia:shields/roundshield_blocking"},
+		{"predicate": {"custom_model_data":10000002}, "model": "elkia:shields/hylianshield"},
+		{"predicate": {"custom_model_data":10000002, "blocking":1}, "model": "elkia:shields/hylianshield_blocking"},
+		{"predicate": {"custom_model_data":10000003}, "model": "elkia:shields/roseshield"},
+		{"predicate": {"custom_model_data":10000003, "blocking":1}, "model": "elkia:shields/roseshield_blocking"},
+		{"predicate": {"custom_model_data":10000004}, "model": "elkia:shields/aegis"},
+		{"predicate": {"custom_model_data":10000004, "blocking":1}, "model": "elkia:shields/aegis_blocking"}
 	]
 }

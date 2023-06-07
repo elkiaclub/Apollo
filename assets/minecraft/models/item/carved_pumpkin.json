@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/carved_pumpkin",
+	"overrides": [
+		{ "predicate": {"custom_model_data":1001}, "model": "elkia:hats/caocrown"},
+		{ "predicate": {"custom_model_data":1002}, "model": "elkia:hats/villager_mask"},
+		{ "predicate": {"custom_model_data":1003}, "model": "elkia:hats/leprechaun"},
+		{ "predicate": {"custom_model_data":1004}, "model": "elkia:hats/piranha_plant"},
+		{ "predicate": {"custom_model_data":1005}, "model": "elkia:hats/ss_hat"}
+	]
+}
